@@ -22,7 +22,7 @@ Java Spring Boot application designed to handle questions and interact with a de
 4) Run the application: java -jar target/question-service.jar
 
 ### API Endpoints
-Here are some of the main API endpoints provided by the Question Service Microservice:
+Here are the main API endpoints provided by the Question Service Microservice:
 
 > GET /questions:  Retrieve a list of all questions.<br>
 > GET /questions/{id}:  Retrieve question details by ID. <br>
